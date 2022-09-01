@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{6db7430d-6ef8-44e2-b583-2128daee5bd1}">
+		<property name="name">
+			<value>BuildupDrone</value>
+		</property>
+		<relationship name="folder">
+			<destination>{e7a1afad-074d-4514-afc8-316b790f408c}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{4d778f71-3630-41e4-9f4e-e480e44a4d7a}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{4d778f71-3630-41e4-9f4e-e480e44a4d7a}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

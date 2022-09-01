@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{8bacca94-36f2-4bb7-a8ad-289896c68be6}">
+		<property name="assetPath">
+			<value>440645__seansecret__opening-door-1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.0817233560090702</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{43616728-95ab-4adf-873d-5c0420b68d7a}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{28a20f5e-90b0-41cd-bda9-796ce87b7e9e}">
+		<property name="assetPath">
+			<value>SupahSwooooooosh.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.3906666666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{43616728-95ab-4adf-873d-5c0420b68d7a}</destination>
+		</relationship>
+	</object>
+</objects>

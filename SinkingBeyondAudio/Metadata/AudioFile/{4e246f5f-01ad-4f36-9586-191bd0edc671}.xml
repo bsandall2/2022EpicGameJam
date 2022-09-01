@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{4e246f5f-01ad-4f36-9586-191bd0edc671}">
+		<property name="assetPath">
+			<value>PM_SFA2_2.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>48.048000000000002</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{43616728-95ab-4adf-873d-5c0420b68d7a}</destination>
+		</relationship>
+	</object>
+</objects>
